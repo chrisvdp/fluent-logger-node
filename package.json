@@ -17,9 +17,6 @@
   "dependencies": {
     "codependency": "^0.1.4"
   },
-  "optionalPeerDependencies":{
-     "msgpack": ""
-  },
   "devDependencies": {
     "mocha": "",
     "chai": "",
