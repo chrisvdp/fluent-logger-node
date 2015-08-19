@@ -14,9 +14,6 @@
     "type": "git",
     "url": "http://github.com/fluent/fluent-logger-node"
   },
-  "dependencies": {
-    "codependency": "^0.1.4"
-  },
   "devDependencies": {
     "mocha": "",
     "chai": "",
